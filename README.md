@@ -7,10 +7,7 @@
 
 ### Links and Resources
 * [Assignemnt1](https://codesandbox.io/s/j782p54nj9)
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [Assignemnt1](https://codesandbox.io/s/k3kk3r8807)
 
 ### Modules
 #### `modulename.js`
